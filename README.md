@@ -77,3 +77,4 @@ cd /workspaces/bsa-ros2-demo
 source install/setup.bash
 
 ros2 topic echo /bsa/status
+
